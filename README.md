@@ -1,2 +1,1 @@
-# awesome-cryoet
-Awesome cryo-ET: A curated collection of resources for cryo-ET research
+# Awesome cryo-ET: A curated collection of resources for cryo-ET research
